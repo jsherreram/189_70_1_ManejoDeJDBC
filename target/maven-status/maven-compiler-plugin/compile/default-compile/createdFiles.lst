@@ -1,0 +1,7 @@
+prueba\PruebaManejoDeUsuarios.class
+dominio\Usuario.class
+datos\UsuarioJDBC.class
+dominio\Persona.class
+datos\Conexion.class
+prueba\PruebaManejoDePersonas.class
+datos\PersonaJDBC.class
